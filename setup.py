@@ -23,8 +23,8 @@ setuptools.setup(
     ],
     python_requires='>= 3.6',
     install_requires=[
-        'requests ~= 2.23.0',
-        'aiohttp ~= 3.7.4'
+        'requests ~= 2.32.3',
+        'aiohttp ~= 3.10.3'
     ],
     extras_require={
         'test': [
